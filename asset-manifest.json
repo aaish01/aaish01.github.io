@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.97bdcdab.css",
+    "main.js": "/home/static/js/main.4a1c1401.js",
+    "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
+    "static/media/aaishwaryagaikwad.png": "/home/static/media/aaishwaryagaikwad.1a51efadb5d71676db84.png",
+    "index.html": "/home/index.html",
+    "main.97bdcdab.css.map": "/home/static/css/main.97bdcdab.css.map",
+    "main.4a1c1401.js.map": "/home/static/js/main.4a1c1401.js.map",
+    "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97bdcdab.css",
+    "static/js/main.4a1c1401.js"
+  ]
+}
